@@ -99,7 +99,8 @@ export default function WaitlistForm() {
           viewport={{ once: true, amount: 0.3 }}
           transition={{ duration: 0.6, delay: 0.2 }}
         >
-          Be the first to experience BRDG. Join the waitlist today.
+          We’re building a platform where the value you create actually matters. If you believe in a future where trust, transparency, and community drive opportunity, you’re in the right place.
+
         </motion.p>
         
         {showSuccess && (
