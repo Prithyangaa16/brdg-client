@@ -12,7 +12,7 @@ export default function Hero() {
         animate={{ opacity: 1, y: 0 }}
         transition={{ duration: 0.8 }}
       >
-        Work. Bank. Play.
+        BRDG
       </motion.h1>
       
       <motion.p 
@@ -21,7 +21,7 @@ export default function Hero() {
         animate={{ opacity: 1 }}
         transition={{ duration: 0.8, delay: 0.3 }}
       >
-        The future of work is changing. Stay ahead.
+        Work. Bank. Play.
       </motion.p>
       
       <motion.p 
@@ -30,10 +30,8 @@ export default function Hero() {
         animate={{ opacity: 1 }}
         transition={{ duration: 0.8, delay: 0.6 }}
       >
-        Join BRDG, the next evolution of freelance and project-based work. 
-        We're building a platform that connects talent with opportunity seamlessly, 
-        transparently, and efficiently. Whether you're a student, a freelancer, 
-        or a business, BRDG is designed to help you work smarter and get rewarded.
+        A decentralized, gamified platform where microbusinesses, students, and freelancers build real value through proof of work—not pay-to-play. Earn trust. Unlock governance. Shape your future.
+
       <div style={{ marginTop: '1.5rem' }}>
         <Link href="#waitlist">
           <button className={styles.btn}>Join the Waitlist</button>
