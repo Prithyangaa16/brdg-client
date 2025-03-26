@@ -46,7 +46,7 @@ export default function About() {
           viewport={{ once: true, amount: 0.3 }}
           transition={{ duration: 0.6 }}
         >
-          About BRDG
+          What is BRDG?
         </motion.h2>
         
         <div className={styles.aboutContent}>
@@ -78,7 +78,8 @@ export default function About() {
               animate={inViewText ? { opacity: 1 } : { opacity: 0 }}
               transition={{ duration: 0.6, delay: 0.3 }}
             >
-              BRDG is revolutionizing how people work, earn, and grow professionally in today's rapidly evolving economy.
+              BRDG is a community-owned platform built for the next generation of independent workers. We connect microbusinesses, students, and freelancers in a fully gamified ecosystem—where every task you complete builds your reputation and unlocks influence.
+
             </motion.p>
             
             <motion.p
@@ -86,7 +87,8 @@ export default function About() {
               animate={inViewText ? { opacity: 1 } : { opacity: 0 }}
               transition={{ duration: 0.6, delay: 0.4 }}
             >
-              Our platform is built on three core pillars:
+              Unlike traditional platforms, BRDG doesn’t sell visibility or power. Instead, we reward contribution through Player Tokens and Governance Tokens, both stored on-chain with no gas fees.
+
             </motion.p>
             
             <motion.ul
@@ -110,7 +112,8 @@ export default function About() {
               animate={inViewText ? { opacity: 1 } : { opacity: 0 }}
               transition={{ duration: 0.6, delay: 0.8 }}
             >
-              Whether you're a company looking for top talent or a professional seeking flexibility, BRDG creates connections that last.
+              Earn trust. Stake your support. Help govern the future of work. Welcome to BRDG—where you don’t just work, you build the bridge to what comes next.
+
             </motion.p>
           </motion.div>
           
