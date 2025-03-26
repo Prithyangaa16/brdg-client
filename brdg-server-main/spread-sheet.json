@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "brdg-the-gap",
+  "private_key_id": "8c05a33262e83d530cc6adf36a228bbb5f6c952a",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDA2COKf7WTHO5h\nKs9xiWj1m52fBAKUICxkm2XVvLtdY/kcgAYpt57wD5+ZsoG9JAoglN1Xb5+B2Zd1\ng00pE6aAcjSLnupjz/AE6LLyei+xwOdggufhDqwmnDjtPD4JOqgyZxyFmdLMyfN2\nq8YOBcDwFaszRi6jn0gO54CJJaSCDZteJKSFrIJ0QXcBOtOV0S0mZAhywtI/cU7F\nS3/OT/2LdN5Yqyx/B8I5j+uh6aqTfGbdXQag6fzMFzV/eJtp8bkNqxzCYWPFwOK+\nnrm1Ud2joxJKBAMuoLH13J89bdDxYNPU2gyddW2PtKTwpjjy4XlXmQKtsXBCym7+\nlgbqKWMvAgMBAAECggEAA77IeFKHbqMyATKy2XwKgDQ7GQq1S7Zd2YzBd/Rn/yXt\n59Ixf6XqF4EPxg0wqXSFuqEP6Dhp9KLXmjF1BWAB7J5LMifH8/nmqdgktMJ173g7\nn76eTXSnfnVFdcLYJ/262B/AiHSDiSg/t9JMnZqzzVxExh4nnod9ZfmBBlwNmEKU\nSdz6tVxlmcKD8Rkq4csP6VHXmFSsctZgsyh4PJcCVndULsvzepkvBr+/1ROzuemI\neUk9J+YO3vfVC314D1TiScQrpC4/IH9bPKBrIewzFPCElqkA8aoQ0ig90ZRU/Ei+\nNuC3C21aEdsLbrw8965Ns5HrSu37sa6JjchoiVlM4QKBgQD8+nHX7lEne5ilRD7c\nYfwC8+D8l4plYG9D4umetB5VeQ4nGXSDl98HxQlpy0x6o8aH9oPuqP/DVsVNPSqJ\nav7ykL0ya/fW0G406jZkXgit1HVkcQowncALxiJ6V9wsfpdKmj5HeOPbLHnzUNSd\nxEwwUouYXsLirDlzJCJpCHQEUwKBgQDDJdEYY7mxllK28dwcQj6ykWo+bRt3baUh\n6BnBMN9T8ZAt46GvyrTfJ7K4OA4kWSv6VQucAOw96wqfqoxuWvUGJ/Wtcd6ByWEN\nklhKknjvN9jlhm7hULb1JWBdK0p9OXqsOLtnTnwxMw4vk6f91UQ7nA7FNbwlETW+\nUrxcrvnKNQKBgEczAYmBdGvFWG/jJkIGfdQi6YaN7BCeNJKJsbDOBt+Ng5Mzkdxb\niRT5uq2A31SA9aZclkM8Y0eKC1uyxF8Ksxh37hfb1VQrM2lHJenXoV+zNRsAyZpn\nO57Us+10/u2y70e6455gAtkzylrVvBFvJvZOtSU8PmNnj3+9gsXG8EgrAoGAGIn7\n1hZMNnGRqyGUrRUDb07rzjfIGWd3OWFHQ8zSeGrK14plPYa+4cTLK3EZDicMaaki\nEZboHg0dQ+CdUg8r+n8x3IKSGT3qb1t0sMPkYyhhpNMXxEtzBjaR/IVCE6cTru5f\nWmk7IrCp2v+1Qyz7LIe+L7xHEV4tpOYge4MhM/UCgYEA5p5nRHWMUI6C9i//xASc\nuAvKrzoBwvwNuzRDFNqnkN0CEin7X6rpKNfqecP3otLGDyMmgNz5Bp4OeZorVX47\nw6uHdiNHUuwP9CTykJx9iIhDRdfpI6U2zgvkLKnt3peKsbeyLlzr9UjROzpyE+O0\nwbLJshYsWZ7MuGEoUO9mIKs=\n-----END PRIVATE KEY-----\n",
+  "client_email": "google-sheet@brdg-the-gap.iam.gserviceaccount.com",
+  "client_id": "115994397117478084038",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/google-sheet%40brdg-the-gap.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
